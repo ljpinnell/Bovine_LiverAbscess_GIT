@@ -1,6 +1,6 @@
 # Manuscript code
 
-### This repository contains all of the code and input files required to replicate the analysis in the manuscript "Establishing the Link between Microbial Communities in Bovine Liver Abscesses and the Gut" currently under review at Animal Microbiome (as of June 1, 2023)
+### This repository contains all of the code and input files required to replicate the analysis in the manuscript "Establishing the Link between Microbial Communities in Bovine Liver Abscesses and the Gut" published in Animal Microbiome (Volume 5, article number 58, (2023)). DOI: https://doi.org/10.1186/s42523-023-00278-0
 
 
 
